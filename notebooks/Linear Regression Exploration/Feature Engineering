@@ -1,0 +1,12 @@
+# Linear Regression Exploration 4: Feature Engineering
+
+Feature engineering plays a crucial role in enhancing the performance of your linear regression model. In this section, we'll explore various techniques for feature engineering, including:
+
+- **Polynomial Features:** Creating polynomial features to capture nonlinear relationships.
+- **Interaction Features:** Combining or multiplying existing features to capture interactions.
+- **Feature Scaling:** Standardizing or normalizing features to improve model convergence.
+- **Binning and Categorization:** Converting numerical features into categorical ones for capturing non-linearity.
+
+We'll provide code examples and practical guidance on how to apply these techniques to your dataset to improve the accuracy and effectiveness of your linear regression model.
+
+[Continue to Linear Regression Exploration 5: Model Training ➡️](linear_regression_model_training.md)
