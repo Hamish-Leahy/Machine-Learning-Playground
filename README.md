@@ -1,5 +1,5 @@
 # Machine-Learning-Playground
-Certainly! Below is a sample README.md for a Machine Learning Playground GitHub repository:
+This machine learning playground is here to help with all things machine learning
 
 ```markdown
 # Machine Learning Playground
