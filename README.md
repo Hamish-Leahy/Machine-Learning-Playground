@@ -30,7 +30,7 @@ To get started with the Machine Learning Playground, follow these steps:
    pip install -r requirements.txt
    ```
 
-3. **Launch Jupyter Notebook:** Start a Jupyter Notebook session to explore the machine learning notebooks.
+3. **Launch Jupyter Notebooks:** Start a Jupyter Notebook session to explore the machine learning notebooks.
 
    ```bash
    jupyter notebook
