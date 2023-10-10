@@ -5,7 +5,7 @@ last updates: 9:10AM
 ```markdown
 # Machine Learning Playground
 
-Welcome to the Machine Learning Playground! This repository serves as a playground for exploring various machine learning algorithms and techniques using Python and Jupyter Notebooks. Whether you're a beginner looking to learn about machine learning or an experienced practitioner wanting to experiment with different models, this repository has something for you.
+Welcome to the Machine Learning Playground! This repository serves as a playground for exploring various machine learning algorithms and techniques using Python and Jupyter Notebooks. Whether you're a beginner looking to learn about machine learning or an experienced practitioner wanting to experiment with different models, this repository has something for you!
 
 ## Table of Contents
 
