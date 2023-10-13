@@ -23,7 +23,7 @@ To get started with the Machine Learning Playground, follow these steps:
    ```bash
    git clone https://github.com/your-username/machine-learning-playground.git
    ```
-
+-------------------------------------------------------------------------------
 2. **install Dependencies:** Ensure you have Python and Jupyter Notebook installed on your machine. You can also create a virtual environment for this project.
 
    ```bash
