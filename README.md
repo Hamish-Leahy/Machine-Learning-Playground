@@ -76,3 +76,4 @@ Happy machine learning!
 ```
 
 In this README.md, we provide an overview of the repository, instructions for getting started, information about the notebooks available, guidelines for contributing, and the project's license. You can customize this README to suit your specific Machine Learning Playground project.
+// covered by MIT Copyright Standards
