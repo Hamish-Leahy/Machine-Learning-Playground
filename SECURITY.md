@@ -9,7 +9,7 @@ At [Your Organization/Project Name], we take security seriously. We value the co
 **Step 1:** **Privately Report Vulnerability**
 
 - Please report security vulnerabilities to our security team by emailing us at [security@example.com](mailto:security@example.com).
-
+_________________________________________________________
 **Step 2:** **Provide Details**
 
 - Provide detailed information about the vulnerability, including:
