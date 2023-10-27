@@ -32,7 +32,7 @@ _________________________________________________________
 - We will communicate with you throughout the process to keep you informed of our progress.
 
 **Step 6:** **Public Disclosure**
-
+-----------------------------------
 - Once the vulnerability is resolved, we will publicly disclose it in a coordinated manner, giving credit to the reporter unless they prefer to remain anonymous.
 - We may also release a security advisory or update to inform users about the issue and the recommended actions.
 
