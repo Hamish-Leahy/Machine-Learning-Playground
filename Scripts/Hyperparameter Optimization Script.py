@@ -1,5 +1,5 @@
 # Hyperparameter Optimization Script with Grid Search
-
+# grid search is limited to maximize its capability you will need to build out the core construction of the grid search parameters 
 # Import necessary libraries
 from sklearn.model_selection import GridSearchCV
 from sklearn.ensemble import RandomForestClassifier
