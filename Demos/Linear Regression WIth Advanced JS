@@ -1,0 +1,23 @@
+// Import necessary libraries
+const tf = require('@tensorflow/tfjs');
+
+// Sample data for training
+const xTrain = tf.tensor([1, 2, 3, 4, 5], [5, 1]);
+const yTrain = tf.tensor([2, 4, 5, 4, 5], [5, 1]);
+
+// Define the model
+const model = tf.sequential();
+model.add(tf.layers.dense({ units: 1, inputShape: [1] }));
+
+// Compile the model
+model.compile({ optimizer: 'sgd', loss: 'meanSquaredError' });
+
+// Train the model
+model.fit(xTrain, yTrain, { epochs: 500 }).then(() => {
+  // Make predictions
+  const xTest = tf.tensor([6, 7, 8], [3, 1]);
+  const predictions = model.predict(xTest);
+
+  // Display predictions
+  predictions.print();
+});
