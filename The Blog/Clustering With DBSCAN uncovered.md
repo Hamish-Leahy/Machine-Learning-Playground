@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Welcome back to the Machine Learning Playground blog, where we dive into the captivating world of machine learning and data analysis. Today, we embark on a journey to explore the fascinating universe of clustering with the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm. DBSCAN is your key to uncovering hidden patterns and structures within your data, and in this article, we'll walk you through its power and application.
+Welcome back to the Machine Learning Playground blog, where we dive into the captivating world of machine learning and data analysis. Today, we embark on a journey to explore the fascinating universe of clustering with the Density-Based Spatial Clustering of Applications with Noise (DBSCAN) algorithm. DBSCAN is your key to uncovering hidden patterns and structures within your data, and in this article, we'll walk you through its power and application...
 
 **Demystifying DBSCAN**
 
