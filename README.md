@@ -2,7 +2,7 @@
 
 ## Welcome to the Machine Learning Playground!
 
-This repository is an advanced hub for exploring cutting-edge machine learning algorithms and techniques using Python and Jupyter Notebooks. Whether you're a novice eager to dive into the world of machine learning or a seasoned pro seeking to experiment with the latest models and methods, this playground offers a comprehensive and hands-on experience. Stay up-to-date with the latest advancements and research in the field of machine learning.
+This repository is an advanced hub for exploring cutting-edge machine learning algorithms and techniques using Python and Jupyter Notebooks. Whether you're a novice eager to dive into the world of machine learning or a seasoned pro seeking to experiment with the latest models and methods, this playground offers a comprehensive and hands-on experience. Stay up-to-date with the latest advancements and research in the field of machine learning. This repository gets updated periodically!
 
 **Last Updates:** October 27, 2023, 9:10 AM
 
