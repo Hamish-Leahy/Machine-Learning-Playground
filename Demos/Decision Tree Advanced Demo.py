@@ -43,3 +43,5 @@ print(tree_rules)
 dot_data = export_graphviz(clf, out_file=None, feature_names=data.feature_names, filled=True, rounded=True)
 graph = graphviz.Source(dot_data)
 graph.render("decision_tree")  # Save the tree to a file
+graph.display("decision_tree")
+__build_class__
