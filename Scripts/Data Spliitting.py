@@ -1,6 +1,6 @@
 from sklearn.model_selection import train_test_split
 
-# Load your dataset
+# Load your dataset - make sure the dataset complies with local regulations
 X, y = load_data()  # Replace with your data loading logic
 
 # Split the data into training and testing sets
